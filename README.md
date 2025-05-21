@@ -1,4 +1,6 @@
 # Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
+## Ganapathy Shriram V B
+## 212223060064
 
 ## Aim
 The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and verify its functionality using **Cadence nclaunch** for simulation.
@@ -46,7 +48,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/0ea58111-49fb-49a4-ad6a-ee36cbf4e479)
 
 ## Verilog Code for 1-Bit Full Adder
-```verilog
+```
 module adder_4bit (
     input [3:0] A, B,
     input Cin,
@@ -62,7 +64,7 @@ module adder_4bit (
 endmodule
 ```
 ## Verilog Testbench Code for 1-Bit Full Adder
-```verilog
+```
 `timescale 1ns/1ps
 
 module tb_adder_4bit;
@@ -99,7 +101,7 @@ endmodule
 
 ## Simulation Results
 ### Simulation Waveforms
-![image](https://github.com/user-attachments/assets/b9906814-eb8c-466a-98e1-30cc97ff2069)
+![image](https://github.com/user-attachments/assets/d9078283-05b9-4f56-9d76-1a1f347aaefa)
 
 
 ## Results
