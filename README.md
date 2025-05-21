@@ -101,7 +101,7 @@ endmodule
 
 ## Simulation Results
 ### Simulation Waveforms
-![image](https://github.com/user-attachments/assets/d9078283-05b9-4f56-9d76-1a1f347aaefa)
+![image](https://github.com/user-attachments/assets/30da1929-eaff-44d9-bfb0-fd58d89b1f08)
 
 
 ## Results
